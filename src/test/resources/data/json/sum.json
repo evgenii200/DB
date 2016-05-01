@@ -1,0 +1,16 @@
+[
+  {
+    "testInput":      {"x": 2, "y": 4},
+    "testOutput":        {"sum": 6}
+  },
+  {
+    "testInput":      {"x": 5, "y": 4},
+    "testOutput":           {"sum": 9}
+
+  },
+  {
+    "testInput":      {"x": 2, "y": 8},
+    "testOutput":             {"sum": 10}
+
+  }
+]

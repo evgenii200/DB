@@ -1,0 +1,14 @@
+[
+  {
+    "testInput":      {"url": "http://www.learn2test.net", "title": "learn2test.net"}
+  },
+
+  {
+    "testInput":      {"url": "http://www.alegro.com", "title": "www.alegro.com"}
+
+  },
+  {
+    "testInput":      {"url": "https://www.usps.com/", "title": "Welcome | USPS"}
+
+  }
+]

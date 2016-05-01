@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testData>
+     <dataSet>
+       <testInputData>
+        <url>http://www.learn2test.net</url> 
+        <title>learn2test.net</title>> 
+    </testInputData>
+
+</dataSet>
+
+<dataSet>
+   <testInputData>
+       <url>http://www.learn2test.net</url> 
+       <title>learn2test.net</title>> 
+   </testInputData>
+
+    </dataSet>
+</testData>
